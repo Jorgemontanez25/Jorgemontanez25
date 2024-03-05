@@ -1,4 +1,21 @@
 ## Hey there!🦾 
+<div align="center">
+  <a href="https://github.com/Jorgemontanez25">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Jorgemontanez25&color=%23181717&style=flat&logo=github" alt="GitHub">
+  </a>
+
+  
+  <a href="https://www.linkedin.com/in/jorgemontanezaguilar/">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Jorge Montanez Aguilar&color=%230077B5&style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  
+  
+  <a href="https://www.instagram.com/Jorgemontanez25">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Jorgemontanez25&color=%23E4405F&style=flat&logo=instagram" alt="Instagram">
+  </a>
+  
+</div>
+
 
 I'm Jorge Montañez, a mechanical engineer transitioning into data science, bringing hands-on experience in manufacturing and automotive sectors. Proficient in Python and machine learning, I'm eager to leverage data-driven insights to drive innovation and optimize processes.
 
@@ -45,21 +62,6 @@ I'm Jorge Montañez, a mechanical engineer transitioning into data science, brin
 - Spanish: Native
 - English: Advanced - C1
 
-### 🌐 Social Networks:
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/Jorgemontanez25" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="width: 24px; height: 24px;">
-    Jorgemontanez25
-  </a>
-  <a href="https://www.linkedin.com/in/jorgemontanezaguilar/" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px;">
-    Jorge Montañez Aguilar
-  </a>
-  <a href="https://www.instagram.com/Jorgemontanez25">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="width: 24px; height: 24px;">
-    Jorgemontanez25
-  </a>
-  </div>
 
 Feel free to reach out to me via LinkedIn!
 
