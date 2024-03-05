@@ -82,32 +82,4 @@ class Jorgemontanez25:
         for sskill in self._qualifications['Soft Skills']:
             print('|---->', sskill)
 
-    def get_certifications(self):
-        print('####################################')
-        print('########## Certifications ##########')
-        print('####################################')
 
-        for cert in self._schooling:
-            if self._schooling[cert][2] == '':
-                string_concat = 'to be obtained'
-            else:
-                string_concat = f'achived on {self._schooling[cert][2]}'
-            if self._schooling[cert][0].lower() == 'certification':
-                print(f'|---->  {self._schooling[cert][1]} {cert.title()} {string_concat}')
-
-    def set_certifications(self, cert_info):
-        self._schooling[cert_info[0]] = ['Certification', cert_info[1], cert_info[2]]
-
-
-
-
-tbo_certification = ['Solutions Architect Associate', 'AWS', '']
-me = Diegomca98()
-
-me.set_certifications(tbo_certification)
-print('\n')
-me.get_qualifications()
-print('\n')
-me.get_certifications()
-print('\n')
-me.presentation()
