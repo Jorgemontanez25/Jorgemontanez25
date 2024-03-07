@@ -47,7 +47,14 @@ I'm Jorge Montañez, a mechanical engineer transitioning into data science, brin
 
 ![Jorgemontanez25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgemontanez25&show_icons=true&theme=dark)
 
-### Education:
+### Education
+
+
+
+
+
+
+
 
 <div style="text-align: center;">
     <a href="https://4geeks.com/">
