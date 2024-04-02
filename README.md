@@ -26,6 +26,8 @@ I'm Jorge Montañez, a mechanical engineer transitioning into data science, brin
 
 ### Code
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=f7db5d&color=326998)
+![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=sql&logoColor=white&color=4caf50)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-informational?style=flat&logo=jupyter&logoColor=f37626&color=f9a03c)
 ![MySQL](https://img.shields.io/badge/MySql-informational?style=flat&logo=mysql&logoColor=white&color=00758f)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
