@@ -4,10 +4,8 @@
     <a href="https://www.linkedin.com/in/jorgemontanezaguilar/">
         <img src="https://img.shields.io/badge/Jorge_Montañez-blue?style=social-square&logo=Linkedin&logoColor=white" alt="Linkedin">
     </a>
-    <a href="https://www.instagram.com/Jorgemontanez25/">
-        <img src="https://img.shields.io/badge/Follow-9cf?logo=instagram&style=social" alt="Instagram">
-    </a>
-    <a href="https://github.com/Jorgemontanez25">
+
+   <a href="https://github.com/Jorgemontanez25">
         <img src="https://img.shields.io/github/followers/Jorgemontanez25?label=Jorgemontanez25&style=social" alt="GitHub">
     </a>
 </div>
@@ -46,46 +44,6 @@ I'm Jorge Montañez, a mechanical engineer transitioning into data science, brin
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit-informational?style=flat&logo=scikit-learn&color=326998)
 ![Tensorflow](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=tensorflow&color=326998)
 
-![Jorgemontanez25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgemontanez25&show_icons=true&theme=dark)
-
-### Education
-
-
-
-
-
-
-
-
-<div style="text-align: center;">
-    <a href="https://4geeks.com/">
-        <img src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2022/01/14151342/4GeeksAcademyLogo-500x474.jpg" alt="4Geeks" style="border-radius: 50%;" width="50" height="50">
-        <br>
-        <strong>Data Science and Machine Learning Bootcamp, 4Geeks Academy (Nov/2023)</strong>
-    </a>
-</div>
-<br>
-<div style="text-align: center;">
-    <a href="https://www.tamu.edu/">
-        <img src="https://brandguide.tamu.edu/assets/img/logos/tam-box-logo.png" alt="Texas A&M" style="border-radius: 50%;" width="65" height="50">
-        <br>
-        <strong>Master's in Mechanical Engineering, Texas A&M University (Aug/2017 - May/2019)</strong>
-    </a>
-</div>
-<br>
-<div style="text-align: center;">
-    <a href="https://www.unimodelo.edu.mx/">
-        <img src="https://www.vhv.rs/dpng/d/555-5556074_logo-de-la-universidad-modelo-hd-png-download.png" alt="Universidad Modelo" style="border-radius: 50%;" width="50" height="50">
-        <br>
-        <strong>Mechatronic Engineering Degree , Universidad Modelo (Aug/2011 - Jun/2015)</strong>
-    </a>
-</div>
-
-
-
-
-
-
 
 ```
 
@@ -121,10 +79,6 @@ I'm Jorge Montañez, a mechanical engineer transitioning into data science, brin
 - Active Listening
 - Emotional Intelligence
 
-### 🎓 Education:
-- **Data Science and Machine Learning Bootcamp**, 4Geeks Academy (Nov/2023)
-- **Master's in Mechanical Engineering**, Texas A&M University (Aug/2017 - May/2019)
-- **Mechatronic Engineering Degree**, Universidad Modelo (Aug/2011 - Jun/2015)
 
 ### 🌐 Spoken Languages:
 - Spanish: Native
@@ -133,4 +87,6 @@ I'm Jorge Montañez, a mechanical engineer transitioning into data science, brin
 
 Feel free to reach out to me via LinkedIn!
 
+```
 
+![Jorgemontanez25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgemontanez25&show_icons=true&theme=dark)
