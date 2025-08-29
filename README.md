@@ -12,7 +12,7 @@
 <br>
 
 
-I'm Jorge Montañez, a mechanical engineer transitioning into data science, bringing hands-on experience in manufacturing and automotive sectors. Proficient in Python and machine learning, I'm eager to leverage data-driven insights to drive innovation and optimize processes.
+I'm a Mechanical Engineer with over 6 years of experience in system design, operations, and automation, recently expanding my skill set through a postgraduate program in Data, AI, and Machine Learning from UT Austin. With a strong foundation in engineering and a growing expertise in data science, I bring a unique blend of technical and analytical skills to solve complex problems, optimize processes, and drive innovation across disciplines.
 >
 [![Sports](https://img.shields.io/badge/Sports-%F0%9F%8F%80-green?color=4CAF50)](https://en.wikipedia.org/wiki/Sports)
 [![Reading](https://img.shields.io/badge/Reading-%F0%9F%93%9A-a6a6f8)](https://en.wikipedia.org/wiki/Reading)
