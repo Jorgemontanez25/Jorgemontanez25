@@ -12,7 +12,12 @@
 <br>
 
 
-I'm a Mechanical Engineer with over 6 years of experience in system design, operations, and automation, recently expanding my skill set through a postgraduate program in Data, AI, and Machine Learning from UT Austin. With a strong foundation in engineering and a growing expertise in data science, I bring a unique blend of technical and analytical skills to solve complex problems, optimize processes, and drive innovation across disciplines.
+I'm a data scientist specialising in sports analytics — currently completing a Master in Big Data and Data Analysis in Sport at Escuela Universitaria Real Madrid – Universidad Europea (2026–27). I build end-to-end, deployed analytics for coaches and decision-makers: NFL tracking-data modelling (XGBoost on 152,305 observations, R² 0.887), NBA lineup and player-impact dashboards (6,293 stints across 200 games), and a DuckDB-based NBA decision-intelligence build. My background is 6+ years in data, machine learning and engineering, including a postgraduate in Data, AI and Machine Learning from UT Austin, plus biomechanics work with Vicon motion capture — a blend I use to turn tracking and play-by-play data into decisions a performance team can act on.
+
+### Featured projects
+- [NFL Big Data Bowl 2026 — Ball Landing Prediction](https://github.com/Jorgemontanez25/nfl-big-data-bowl-2026) — XGBoost, game-level validation, deployed on Hugging Face Spaces.
+- [NBA Player Impact & Lineup Optimization Dashboard](https://github.com/Jorgemontanez25/NBA_Player_Impact_and_Lineup_Optimization_Dashboard) — 6,293 lineup stints, Streamlit decision-support dashboard.
+- [NBA Decision Intelligence](https://github.com/Jorgemontanez25/nba-decision-intelligence) — DuckDB-based, multi-season player analysis and 5v5 recommendations.
 >
 [![Sports](https://img.shields.io/badge/Sports-%F0%9F%8F%80-green?color=4CAF50)](https://en.wikipedia.org/wiki/Sports)
 [![Reading](https://img.shields.io/badge/Reading-%F0%9F%93%9A-a6a6f8)](https://en.wikipedia.org/wiki/Reading)
